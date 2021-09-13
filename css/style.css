@@ -170,10 +170,10 @@ body {
 .heading-primary {
   color: #c34954;
   text-transform: uppercase;
-  font-family: "Angel", sans-serif;
-  font-size: 6.5rem;
-  font-weight: 900;
-  letter-spacing: 2.5rem;
+  font-family: "Libre Baskerville", serif;
+  font-size: 6rem;
+  font-weight: 400;
+  letter-spacing: 1.5rem;
   text-align: center;
   width: 100%;
   padding: 0; }
@@ -231,7 +231,7 @@ body {
     font-weight: 300 !important;
     text-transform: capitalize !important; }
   .text--bold {
-    font-family: "Angel", sans-serif;
+    font-family: "Libre Baskerville", serif;
     font-size: 2rem;
     font-weight: bold;
     text-transform: uppercase !important; }
@@ -369,7 +369,7 @@ body {
 .card-header {
   text-align: center !important;
   font-size: 2.5rem;
-  font-family: "Angel", sans-serif;
+  font-family: "Libre Baskerville", serif;
   font-weight: 600;
   background-color: transparent !important;
   border-bottom: 1px solid black !important;
@@ -808,7 +808,7 @@ body {
   .MySlides__monday {
     background-image: url(../img/monday.jpg); }
   .MySlides__tuesday {
-    background-image: url(../img/tuesday_pizza.jpg); }
+    background-image: url(../img/tuesday.jpg); }
   .MySlides__wednesday {
     background-image: url(../img/wednesday.jpg); }
   .MySlides__friday {
